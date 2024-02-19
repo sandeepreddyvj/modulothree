@@ -1,4 +1,4 @@
 # modulothree
-unzip the file
-npm install
+unzip the file,
+npm install,
 npm start
